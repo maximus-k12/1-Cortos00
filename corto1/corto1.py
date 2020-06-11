@@ -8,3 +8,15 @@ while number_co !=1:    #El numero debe ser diferente de 1 para ejecutarse.
     else:
         print("%d" % (number_co),end = "" "\n") #Si el resto es diferente de 0 para cada numero, imprimir su sucecion.
         number_co=(number_co * 3)+1             #Hacer 3 vaces cada nuevo numero mas una unidad.
+
+# anidar este ciclo dentro de otro ciclo , para generar N secuencias
+
+#No se utilizo listas para guardar las secuencias, no se guardaron las secuencias en un archivo,no genera N secuencias
+#Funcionamiento:        10/40
+#Uso de Funciones       0/20
+#Manejo de archivos     0/10
+#Manejo de Listas       0/10
+#Uso de git             20/20
+#*****************************
+#Total                  30/100
+
